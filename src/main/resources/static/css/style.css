@@ -1,0 +1,10 @@
+table {
+ border:1px solid #b3eaff; border-collapse:collapse; text-align:center;
+}
+th{ border: 1px solid #069aff; background-color:#b3eaff; padding: 10px 5px;}
+
+td{ border: 1px solid #b3eaff; padding: 10px 5px;}
+
+.left_div{ float:left }
+
+.middle_div{ float:left }
